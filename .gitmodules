@@ -1,0 +1,3 @@
+[submodule "stubby4j-api"]
+	path = stubby4j-api
+	url = git@github.com:song-rit/stubby4j-java.git
